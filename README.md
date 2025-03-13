@@ -1,4 +1,4 @@
-# llm_radimpressions
+# Ascertainment of clinical outcomes and metastatic sites from radiology impression text using large language models
 Clinical outcomes ascertainment and sites of metastases ascertainment using large language models (LLMs). Dataset is de-identified radiology impressions with manually annotated labels. 
 
 ## Model Experiments
